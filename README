@@ -1,0 +1,11 @@
+Instructions:
+
+Download JB 10.1 Source Code
+
+Go to /root-of-CM10/device/ and delete samsung
+
+Put this samsung directory in its place
+
+DL vendor files for CM10 and place in /root-of-CM10/vendor/
+
+Have fun
